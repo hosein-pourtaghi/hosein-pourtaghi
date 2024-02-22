@@ -6,8 +6,8 @@
 ## Skills:
 
 **Backend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![C#]([https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))](#)
-[![C++]([https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))](#) 
+[![C#]((https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))](#)
+[![C++]((https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))](#) 
 
 **Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)](#)
