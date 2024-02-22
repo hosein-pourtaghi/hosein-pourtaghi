@@ -5,34 +5,25 @@
 
 ## Skills:
 
+**Backend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![C#]([https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))](#)
+[![C++]([https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white))](#) 
+
+**Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#) 
+
 **Design**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)](#)
 [![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)](#)
-[![Sass](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)](#)
-[![Sass](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindCSS)](#)
-[![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)](#)
-
-**Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#)
-[![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
-[![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)
-[![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)](#)
-
-**Backend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)](#)
-[![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)](#)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)](#)
 
 **Database**:&nbsp;&nbsp;&nbsp;&nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)](#)
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#) 
 
 **Tools**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)](#)
-[![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)](#)
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](#)
+[![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)](#) 
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)
 [![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)](#)
 
@@ -42,17 +33,13 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino)](#)
 
 **IDE**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
-[![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=007ACC)](#)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#) 
 
 ## Contact:
 You could Keeping in touch with me by below communication ways:
+ 
+[![GMail](https://img.shields.io/badge/GMail-f0f0f0?&style=flat-square&logo=gmail&logoColor=white&color=ea4335)](mailto:hosein.pourtaghi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-f0f0f0?&style=flat-square&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/hosein-pourtaghi)
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)](https://github.com/hosein-pourtaghi)
 
-[![Instagram](https://img.shields.io/badge/Instagram-f0f0f0?&style=flat-square&logoColor=white&logo=instagram&color=c13584)](https://instagram.com/ehsunoo)
-[![Telegram](https://img.shields.io/badge/Telegram-f0f0f0?&style=flat-square&logoColor=white&logo=telegram&color=gray)](https://t.me/ehsunoo)
-[![Twitter](https://img.shields.io/badge/Twitter-f0f0f0?&style=flat-square&logoColor=white&logo=twitter&color=00acee)](https://twitter.com/ehsunoo)
-[![GMail](https://img.shields.io/badge/GMail-f0f0f0?&style=flat-square&logo=gmail&logoColor=white&color=ea4335)](mailto:info.hamrah@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-f0f0f0?&style=flat-square&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ehsunoo)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)](https://github.com/ehsunoo)
-
-![](https://komarev.com/ghpvc/?username=ehsunoo&style=plastic)
+![](https://komarev.com/ghpvc/?username=hosein-pourtaghi&style=plastic)
