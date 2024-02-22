@@ -14,7 +14,7 @@
 [![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styled-components)](#)
 
 **Frontend**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)
+[![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#)
 [![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)](#)
 [![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)](#)
